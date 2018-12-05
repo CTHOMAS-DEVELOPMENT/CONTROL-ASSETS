@@ -1,6 +1,4 @@
-# CONTROL-ASSETS
-
-#List of items
+## CONTROL-ASSETS
 
 1.Allows a user sign in with a username and password (credentials are in the API section)
 
@@ -21,3 +19,6 @@
 5.Bonus: Allow a user to choose a Project and see more details
 
 -To do: Shows a form but not connected with the add project end point
+
+## Demo
+[Maintain assets application demo](http://waiting-club.surge.sh/)
